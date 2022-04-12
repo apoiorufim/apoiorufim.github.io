@@ -1,6 +1,7 @@
 body {
     padding: 30px;
     background-color: cornflowerblue;
+
 }
 
 
@@ -19,7 +20,7 @@ p{
 
 
 .box {
-    width: device-width / 2;
+    
     border: 10px solid rgb(0, 0, 0);
     padding: 40px;
     font-size: medium;
