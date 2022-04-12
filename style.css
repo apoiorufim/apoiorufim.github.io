@@ -1,0 +1,27 @@
+body {
+    padding: 30px;
+    background-color: cornflowerblue;
+}
+
+
+p{
+    padding: 10px;
+}
+
+.cont {
+    padding: 30px;
+    border-radius: 20px;
+    background-color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    line-height: 25px;
+}
+
+
+.box {
+    width: device-width / 2;
+    border: 10px solid rgb(0, 0, 0);
+    padding: 40px;
+    font-size: medium;
+    background-color: rgb(215, 215, 215);
+    }
