@@ -2,6 +2,7 @@ body {
     padding: 30px;
     background-color: #88AA00;
     justify-content: center;
+    display: block;
 
 }
 
@@ -34,7 +35,7 @@ p{
     background-color: white;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: large;
-    line-height: 25px;
+    line-height: 30px;
     text-align: justify;
 }
 
