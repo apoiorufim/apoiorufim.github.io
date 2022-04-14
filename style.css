@@ -1,6 +1,6 @@
 body {
     padding: 30px;
-    background-color: cornflowerblue;
+    background-color: #88AA00;
    
 
 }
@@ -14,8 +14,8 @@ body {
 }
 
 button{
-    background-color: cornflowerblue;
-    color: white;
+    background-color: #88AA00;
+    color: black;
     border: 2px solid black;
     border-radius: 5px;
     padding: 10px;
